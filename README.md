@@ -8,6 +8,7 @@
 - [Tarefas](#tarefas)
 - [Requisitos](#requisitos)
 - [Orientações gerais](#orientações-gerais)
+- [Exemplos de entradas e saídas](#exemplos-de-entradas-e-saídas)
 - [Autoria e política de colaboração](#autoria-e-política-de-colaboração)
 - [Entrega](#entrega)
 - [Avaliação](#avaliação)
