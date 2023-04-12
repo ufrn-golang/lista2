@@ -68,15 +68,15 @@ $ genmap
 []
 0
 
-> add 1 “Hello”
-[1] "Hello”
+> add 1 "Hello"
+[1] "Hello"
 
-> add 2 “World”
-[1] Hello
-[2] World
+> add 2 "World"
+[1] "Hello"
+[2] "World"
 
 > get 2
-[2] World
+[2] "World"
 
 > size
 2
