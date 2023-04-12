@@ -58,6 +58,33 @@ Boas práticas de programação deverão ser constantemente aplicadas no desenvo
 
 O programa deverá ainda ser desenvolvido com qualidade, garantindo que o ele funcione de forma correta e eficiente. Deve-se também pensar nas possíveis entradas que poderão ser utilizadas para testar apropriadamente o programa, além de serem tratadas adequadamente possíveis entradas consideradas inválidas.
 
+## Exemplos de entradas e saídas
+
+```bash
+$ genmap
+
+> print
+[]
+0
+
+> add 1 “Hello”
+[1] "Hello”
+
+> add 2 “World”
+[1] Hello
+[2] World
+
+> get 2
+[2] World
+
+> size
+2
+
+> exit
+```
+
+Note que a exibição de cada entrada na saída padrão deve obedecer ao formato `[<chave>] valor` (ou seja, com colchetes circundando as chaves). Caso o mapa esteja vazio, devem ser impressos apenas os colchetes seguidos do número zero.
+
 ## Autoria e política de colaboração
 
 Este trabalho deverá necessariamente ser realizado em equipe composta de **até dois estudantes**, sendo importante, dentro do possível, dividir as tarefas igualmente entre os integrantes da equipe. Após a implementação das soluções para os problemas propostos, o arquivo [`author.md`](https://github.com/ufrn-golang/lista2/tree/master/author.md) presente no repositório deverá ser editado preenchendo as informações de identificação dos integrantes da equipe, na seção [Informações de Autoria](https://github.com/ufrn-golang/lista2/tree/master/author.md#identificação-de-autoria). 
