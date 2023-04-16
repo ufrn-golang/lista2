@@ -1,6 +1,6 @@
 # Lista 2: Estruturas de dados genéricas em Go
 
-<sub>Última atualização: 11/04/2023</sub>
+<sub>Última atualização: 16/04/2023</sub>
 
 ## Sumário
 
@@ -98,7 +98,7 @@ O sistema de controle de versões [Git](https://git-scm.com) e o serviço de hos
 
 No momento de criação de uma equipe, o GitHub Classroom cria um repositório Git privado acessível unicamente pelos integrantes da equipe e pelo docente, sob a organização [`ufrn-golang`](https://github.com/ufrn-golang). A fim de garantir a boa manutenção do repositório, deve-se ainda configurar corretamente o arquivo `.gitignore` para desconsiderar arquivos que não devam ser versionados, a exemplo do arquivo executável gerado a partir da compilação do código fonte.
 
-A implementação do programa objeto deste trabalho deverá ser realizada **até as 11:00 do dia 17 de abril de 2023** no respectivo repositório Git da equipe. Para fins de registro, o endereço do repositório também deverá ser **obrigatoriamente** enviado através da opção *Tarefas* na Turma Virtual do SIGAA, devendo **um único membro da equipe** realizar esse envio. Além disso, **não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.**
+A implementação do programa objeto deste trabalho deverá ser realizada **até as 23:59 do dia 18 de abril de 2023** no respectivo repositório Git da equipe. Para fins de registro, o endereço do repositório também deverá ser **obrigatoriamente** enviado através da opção *Tarefas* na Turma Virtual do SIGAA, devendo **um único membro da equipe** realizar esse envio. Além disso, **não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.**
 
 ## Avaliação
 
